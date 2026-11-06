@@ -4,9 +4,8 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(
-    page_title="Simulador de Conducción Pro 2", page_icon="🏎️", layout="wide"
+    page_title="Simulador de Conducción Pro Gamer 2", page_icon="🏎️", layout="wide"
 )
-
 st.markdown(
     """
     <style>
